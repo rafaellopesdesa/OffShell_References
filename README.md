@@ -4,8 +4,8 @@
 </ul>
 <p>Higgs width interpretation:</p>
 <ul>
-<li><p><span class="citation" data-cites="Caola:2013yja">(Caola and Melnikov 2013)</span></p></li>
-<li><p><span class="citation" data-cites="Campbell:2013una">(Campbell, Ellis, and Williams 2014)</span> MCFM</p></li>
+<li><p><span class="citation" data-cites="Caola:2013yja">(Caola and Melnikov 2013)</span> Width measurement (general)</p></li>
+<li><p><span class="citation" data-cites="Campbell:2013una">(Campbell, Ellis, and Williams 2014)</span> Width with MCFM</p></li>
 </ul>
 <p>Light states (including Higgs portal) models:</p>
 <ul>
@@ -23,7 +23,7 @@
 <li><p><span class="citation" data-cites="Grzadkowski:2010es">(Grzadkowski et al. 2010)</span> EFT basics</p></li>
 <li><p><span class="citation" data-cites="Azatov:2014jga">(Azatov et al. 2015)</span> Some comments about Higgs width interpretation</p></li>
 <li><p><span class="citation" data-cites="Gainer:2014hha">(Gainer et al. 2015)</span> Some specific operators</p></li>
-<li><p><span class="citation" data-cites="Azatov:2016xik">(Azatov et al. 2016)</span></p></li>
+<li><p><span class="citation" data-cites="Azatov:2016xik">(Azatov et al. 2016)</span> Interesting discussion of Htt operators</p></li>
 <li><p><span class="citation" data-cites="Passarino:2016pzb">(Passarino and Trott 2016)</span> SMEFT at NLO (and see this implementation <a href="http://feynrules.irmp.ucl.ac.be/wiki/SMEFTatNLO">http://feynrules.irmp.ucl.ac.be/wiki/SMEFTatNLO</a>)</p></li>
 <li><p><span class="citation" data-cites="Falkowski:2015wzab">(Falkowski et al. 2015)</span> Not off-shell related, about EFT basis</p></li>
 <li><p><span class="citation" data-cites="Contino:2016jqw">(Contino et al. 2016)</span></p></li>
@@ -55,7 +55,11 @@
 </ul>
 <p>MELA papers:</p>
 <ul>
-<li><p><span class="citation" data-cites="Bolognesi:2012mm">(Bolognesi et al. 2012)</span> CP and spin measurement of Higgs resonance</p></li>
+<li><p><span class="citation" data-cites="Bolognesi:2012mm">(Bolognesi et al. 2012)</span> MELA at LO with JHUGen</p></li>
+<li><p><span class="citation" data-cites="Avery:2012um">(Avery and others 2013)</span> MELA at LO with MadGraph and MCFM</p></li>
+<li><p><span class="citation" data-cites="Campbell:2012cz">(Campbell, Giele, and Williams 2012)</span> MELA at NLO with MCFM (example with <span class="math inline"><em>Z</em><em>γ</em></span> <span class="citation" data-cites="Campbell:2013hz">(Campbell et al. 2013)</span>)</p></li>
+<li><p><span class="citation" data-cites="Martini:2015fsa">(Martini and Uwer 2015)</span> MELA at NLO (general)</p></li>
+<li><p><span class="citation" data-cites="Kraus:2019qoq">(Kraus, Martini, and Uwer 2019)</span> MELA at NLO with anti-k<span class="math inline"><em></em><sub><em>t</em></sub></span> jets</p></li>
 </ul>
 <p>MadMiner description:</p>
 <ul>
@@ -80,6 +84,9 @@
 </div>
 <div id="ref-Alioli:2016xab">
 <p>Alioli, Simone, Fabrizio Caola, Gionata Luisoni, and Raul Röntsch, 2017, “ZZ production in gluon fusion at NLO matched to parton-shower,” Phys. Rev. <strong>D95</strong>, 034042, <a href="http://arxiv.org/abs/1609.09719">http://arxiv.org/abs/1609.09719</a>.</p>
+</div>
+<div id="ref-Avery:2012um">
+<p>Avery, Paul, and others, 2013, “Precision studies of the Higgs boson decay channel H<span class="math inline">→</span>ZZ<span class="math inline">→</span>4ℓ with MEKD,” Phys. Rev. D <strong>87</strong>, 055006, <a href="http://arxiv.org/abs/1210.0896">http://arxiv.org/abs/1210.0896</a>.</p>
 </div>
 <div id="ref-Azatov:2014jga">
 <p>Azatov, Aleksandr, Christophe Grojean, Ayan Paul, and Ennio Salvioni, 2015, “Taming the off-shell Higgs boson,” Zh. Eksp. Teor. Fiz. <strong>147</strong>, 410–425, <a href="http://arxiv.org/abs/1406.6338">http://arxiv.org/abs/1406.6338</a>.</p>
@@ -108,8 +115,14 @@
 <div id="ref-Brivio:2019myy">
 <p>Brivio, Ilaria, Tyler Corbett, and Michael Trott, 2019, “The Higgs width in the SMEFT,” JHEP <strong>10</strong>, 056, <a href="http://arxiv.org/abs/1906.06949">http://arxiv.org/abs/1906.06949</a>.</p>
 </div>
+<div id="ref-Campbell:2013hz">
+<p>Campbell, John M., R.Keith Ellis, Walter T. Giele, and Ciaran Williams, 2013, “Finding the Higgs boson in decays to <span class="math inline"><em>Z</em><em>γ</em></span> using the matrix element method at Next-to-Leading Order,” Phys. Rev. D <strong>87</strong>, 073005, <a href="http://arxiv.org/abs/1301.7086">http://arxiv.org/abs/1301.7086</a>.</p>
+</div>
 <div id="ref-Campbell:2013una">
 <p>Campbell, John M., R. Keith Ellis, and Ciaran Williams, 2014, “Bounding the Higgs Width at the LHC Using Full Analytic Results for <span class="math inline"><em>g</em><em>g</em> −  &gt; <em>e</em><sup>−</sup><em>e</em><sup>+</sup><em>μ</em><sup>−</sup><em>μ</em><sup>+</sup></span>,” JHEP <strong>04</strong>, 060, <a href="http://arxiv.org/abs/1311.3589">http://arxiv.org/abs/1311.3589</a>.</p>
+</div>
+<div id="ref-Campbell:2012cz">
+<p>Campbell, John M., Walter T. Giele, and Ciaran Williams, 2012, “The Matrix Element Method at Next-to-Leading Order,” JHEP <strong>11</strong>, 043, <a href="http://arxiv.org/abs/1204.4424">http://arxiv.org/abs/1204.4424</a>.</p>
 </div>
 <div id="ref-Caola:2016trd">
 <p>Caola, Fabrizio, Matthew Dowling, Kirill Melnikov, Raoul Röntsch, and Lorenzo Tancredi, 2016, “QCD corrections to vector boson pair production in gluon fusion including interference effects with off-shell Higgs at the LHC,” JHEP <strong>07</strong>, 087, <a href="http://arxiv.org/abs/1605.04610">http://arxiv.org/abs/1605.04610</a>.</p>
@@ -170,6 +183,12 @@
 </div>
 <div id="ref-Khachatryan:2016ctc">
 <p>———, 2016, “Search for Higgs boson off-shell production in proton-proton collisions at 7 and 8 TeV and derivation of constraints on its total decay width,” JHEP <strong>09</strong>, 051, <a href="http://arxiv.org/abs/1605.02329">http://arxiv.org/abs/1605.02329</a>.</p>
+</div>
+<div id="ref-Kraus:2019qoq">
+<p>Kraus, Manfred, Till Martini, and Peter Uwer, 2019, “Matrix Element Method at NLO for (anti-)<span class="math inline"><strong>k</strong><sub><strong>t</strong></sub></span>-jet algorithms,” Phys. Rev. D <strong>100</strong>, 076010, <a href="http://arxiv.org/abs/1901.08008">http://arxiv.org/abs/1901.08008</a>.</p>
+</div>
+<div id="ref-Martini:2015fsa">
+<p>Martini, Till, and Peter Uwer, 2015, “Extending the Matrix Element Method beyond the Born approximation: Calculating event weights at next-to-leading order accuracy,” JHEP <strong>09</strong>, 083, <a href="http://arxiv.org/abs/1506.08798">http://arxiv.org/abs/1506.08798</a>.</p>
 </div>
 <div id="ref-Meyer:2232040">
 <p>Meyer, Jochen, and Roberto Di Nardo, 2016, “Theoretical Uncertainties Occurring In <span class="math inline"><em>H</em> → <em>Z</em><em>Z</em></span> analyses,” ATL-COM-PHYS-2016-1632 (CERN, Geneva), <a href="https://cds.cern.ch/record/2232040">https://cds.cern.ch/record/2232040</a>.</p>
