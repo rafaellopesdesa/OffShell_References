@@ -1,3 +1,5 @@
+export PATH := $(PATH):/home/rclsa/PanDoc/pandoc-2.9.2.1/bin/
+
 LATEX    = pdflatex
 BIBTEX   = bibtex
 DVIPS    = dvips
@@ -41,7 +43,6 @@ testpdflatex:
 .PHONY: clean
 
 pandoc:
-	export PATH="${PATH}:/home/rclsa/PanDoc/pandoc-2.9.2.1/bin/"
 	pandoc --bibliography OffShell_References.bib --csl reviews-of-modern-physics-with-titles.csl --filter pandoc-citeproc OffShell_References.tex -o README.html
 	mv README.html README.md
 
